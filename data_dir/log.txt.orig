@@ -1,0 +1,84 @@
+Aug 23 07:15:03 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 07:15:03 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.sandboxd[12643]): Service exited due to SIGALRM | sent by kernel_task[0]
+Aug 23 07:15:05 Marizas-MBP SystemUIServer[2587]: notify name "CRKStudentEnrollmentStatusDidChangeNotification" has been registered 40 times - this may be a leak
+Aug 23 07:15:05 Marizas-MBP timed[113]: settimeofday({0x5d5ff4e9,0x22130}) == 0
+Aug 23 07:15:05 Marizas-MBP systemstats[86]: assertion failed: 18G87: systemstats + 668620 [D8A96B8F-0E65-3EA8-9EEE-982901402221]: 0x7f99f8e274f0
+Aug 23 07:15:05 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.bsd.dirhelper[12661]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.bsd.dirhelper
+Aug 23 08:32:15 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 08:32:18 Marizas-MacBook-Pro timed[113]: settimeofday({0x5d600702,0x1a989}) == 0
+Aug 23 08:32:23 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.smb.preferences): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+Aug 23 08:32:25 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Aug 23 08:32:29 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.WebKit.WebContent.4F23B39F-0566-4614-A97C-187B6DA874F4[12765]): Service exited with abnormal code: 1
+Aug 23 08:32:39 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.7BFD5A2E-0E8E-4EA2-A6B0-DE63BA64DAF8[12764]): Service exited with abnormal code: 1
+Aug 23 08:32:49 Marizas-MBP awdd[231]: Diagnostics Report
+Aug 23 08:33:19 --- last message repeated 1 time ---
+Aug 23 08:39:45 Marizas-MBP assistantd[2488]: rootless_convert_to_datavault: rootless_set_storage_class(/Users/marizakim/Library/Caches/VoiceTrigger/SATUpload): Operation not permitted
+Aug 23 08:42:49 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 08:49:46 Marizas-MBP com.apple.xpc.launchd[1] (com.google.keystone.daemon[12837]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.google.Keystone.Daemon.Administration
+Aug 23 08:49:46 Marizas-MBP com.apple.xpc.launchd[1] (com.google.keystone.daemon[12837]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.google.Keystone.Daemon.UpdateEngine
+Aug 23 08:52:18 Marizas-MBP pycharm[12869]: allVms required 1.8*,1.8+
+Aug 23 08:52:18 Marizas-MBP pycharm[12869]: Value of PYCHARM_VM_OPTIONS is (null)
+Aug 23 08:52:18 Marizas-MBP pycharm[12869]: fullFileName is: /Applications/PyCharm CE.app/Contents/bin/pycharm.vmoptions
+Aug 23 08:52:18 Marizas-MBP pycharm[12869]: fullFileName exists: /Applications/PyCharm CE.app/Contents/bin/pycharm.vmoptions
+Aug 23 08:52:18 Marizas-MBP pycharm[12869]: Processing VMOptions file at /Applications/PyCharm CE.app/Contents/bin/pycharm.vmoptions
+Aug 23 08:52:18 Marizas-MBP pycharm[12869]: Done
+Aug 23 08:52:54 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 09:00:02 Marizas-MBP pycharm[12994]: allVms required 1.8*,1.8+
+Aug 23 09:00:02 Marizas-MBP pycharm[12994]: Value of PYCHARM_VM_OPTIONS is (null)
+Aug 23 09:00:02 Marizas-MBP pycharm[12994]: fullFileName is: /Applications/PyCharm CE.app/Contents/bin/pycharm.vmoptions
+Aug 23 09:00:02 Marizas-MBP pycharm[12994]: fullFileName exists: /Applications/PyCharm CE.app/Contents/bin/pycharm.vmoptions
+Aug 23 09:00:02 Marizas-MBP pycharm[12994]: Processing VMOptions file at /Applications/PyCharm CE.app/Contents/bin/pycharm.vmoptions
+Aug 23 09:00:02 Marizas-MBP pycharm[12994]: Done
+Aug 23 09:00:30 Marizas-MBP pycharm[12994]: assertion failed: 18G87: libxpc.dylib + 90677 [7DEE2300-6D8E-3C00-9C63-E3E80D56B0C4]: 0x89
+Aug 23 09:00:30 Marizas-MBP com.apple.xpc.launchd[1] (com.getdropbox.dropbox.garcon.3E55F758-84FB-4C14-9A5E-5AD96B9BFF66[13018]): Caller wanted oneshot behavior for pre-existing instance: caller = pycharm
+Aug 23 09:00:32 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.quicklook[13019]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+Aug 23 09:00:33 Marizas-MBP pycharm[12994]: objc[12994]: Class FIFinderSyncExtensionHost is implemented in both /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/FinderKit (0x7fff956913d8) and /System/Library/PrivateFrameworks/FileProvider.framework/OverrideBundles/FinderSyncCollaborationFileProviderOverride.bundle/Contents/MacOS/FinderSyncCollaborationFileProviderOverride (0x15b94ff50). One of the two will be used. Which one is undefined.
+Aug 23 09:05:02 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 09:05:03 Marizas-MBP com.apple.xpc.launchd[1] (com.google.keystone.daemon[13032]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.google.Keystone.Daemon.Administration
+Aug 23 09:05:03 Marizas-MBP com.apple.xpc.launchd[1] (com.google.keystone.daemon[13032]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.google.Keystone.Daemon.UpdateEngine
+Aug 23 09:16:13 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 09:28:03 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 09:37:12 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.quicklook[13080]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.quicklook
+Aug 23 09:38:13 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 09:41:47 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Aug 23 09:45:01 Marizas-MBP pycharm[13110]: allVms required 1.8*,1.8+
+Aug 23 09:45:01 Marizas-MBP pycharm[13110]: Value of PYCHARM_VM_OPTIONS is (null)
+Aug 23 09:45:01 Marizas-MBP pycharm[13110]: fullFileName is: /Applications/PyCharm CE.app/Contents/bin/pycharm.vmoptions
+Aug 23 09:45:01 Marizas-MBP pycharm[13110]: fullFileName exists: /Applications/PyCharm CE.app/Contents/bin/pycharm.vmoptions
+Aug 23 09:45:01 Marizas-MBP pycharm[13110]: Processing VMOptions file at /Applications/PyCharm CE.app/Contents/bin/pycharm.vmoptions
+Aug 23 09:45:01 Marizas-MBP pycharm[13110]: Done
+Aug 23 09:45:54 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.502): Service "com.apple.xpc.launchd.unmanaged.loginwindow.125" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.SystemUIServer.agent
+Aug 23 10:28:31 --- last message repeated 1 time ---
+Aug 23 10:28:31 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 10:28:33 Marizas-MBP timed[113]: settimeofday({0x5d602241,0x6784a}) == 0
+Aug 23 10:28:34 Marizas-MBP timed[113]: settimeofday({0x5d602242,0x5dd4c}) == 0
+Aug 23 10:38:42 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 10:40:51 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Aug 23 10:43:15 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.502): Service "com.apple.xpc.launchd.unmanaged.loginwindow.125" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.SystemUIServer.agent
+Aug 23 10:43:45 --- last message repeated 1 time ---
+Aug 23 10:45:04 Marizas-MBP PrintUITool[1210]: notify name "com.apple.system.powersources.source" has been registered 100 times - this may be a leak
+Aug 23 10:45:05 Marizas-MBP timed[113]: settimeofday({0x5d602621,0x39026}) == 0
+Aug 23 10:47:23 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.502): Service "com.apple.xpc.launchd.unmanaged.loginwindow.125" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.SystemUIServer.agent
+Aug 23 10:55:27 --- last message repeated 1 time ---
+Aug 23 10:55:27 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 10:55:29 Marizas-MBP timed[113]: settimeofday({0x5d602891,0x3aafb}) == 0
+Aug 23 10:56:16 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Aug 23 11:01:57 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.502): Service "com.apple.xpc.launchd.unmanaged.loginwindow.125" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.SystemUIServer.agent
+Aug 23 11:02:27 --- last message repeated 1 time ---
+Aug 23 11:04:56 Marizas-MBP timed[113]: settimeofday({0x5d602ac8,0xae4da}) == 0
+Aug 23 11:05:32 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 11:09:47 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Aug 23 11:10:13 --- last message repeated 2 times ---
+Aug 23 11:10:13 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.WebKit.Networking.7EE62FFD-3C50-4146-AF6B-F4A897A1B9D6[13276]): Service exited with abnormal code: 1
+Aug 23 11:13:57 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Aug 23 11:15:34 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 11:16:31 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.WebKit.WebContent.D776175B-D060-4866-A288-EEC24F711558[13296]): Service exited with abnormal code: 1
+Aug 23 11:24:07 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Aug 23 11:25:42 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 11:28:35 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Aug 23 11:35:18 Marizas-MBP accountsd[2457]: notify name "SYDRemotePreferencesConfigurationDidChangeNotification" has been registered 20 times - this may be a leak
+Aug 23 11:35:18 Marizas-MBP accountsd[2457]: notify name "SYDRemotePreferencesSourceDidChangeExternally" has been registered 20 times - this may be a leak
+Aug 23 11:35:18 Marizas-MBP accountsd[2457]: notify name "com.apple.syncdefaultsd.daemon.wake" has been registered 20 times - this may be a leak
+Aug 23 11:35:48 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 11:42:11 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
+Aug 23 11:42:45 Marizas-MBP awdd[231]: Diagnostics Report

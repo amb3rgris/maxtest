@@ -1,0 +1,10 @@
+Aug 23 07:15:03 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 07:15:03 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.sandboxd[12643]): Service exited due to SIGALRM | sent by kernel_task[0]
+Aug 23 07:15:05 Marizas-MBP SystemUIServer[2587]: notify name "CRKStudentEnrollmentStatusDidChangeNotification" has been registered 40 times - this may be a leak
+Aug 23 07:15:05 Marizas-MBP timed[113]: settimeofday({0x5d5ff4e9,0x22130}) == 0
+Aug 23 07:15:05 Marizas-MBP systemstats[86]: assertion failed: 18G87: systemstats + 668620 [D8A96B8F-0E65-3EA8-9EEE-982901402221]: 0x7f99f8e274f0
+Aug 23 07:15:05 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.bsd.dirhelper[12661]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.bsd.dirhelper
+Aug 23 08:32:15 Marizas-MBP syslogd[74]: ASL Sender Statistics
+Aug 23 08:32:18 Marizas-MacBook-Pro timed[113]: settimeofday({0x5d600702,0x1a989}) == 0
+Aug 23 08:32:23 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.smb.preferences): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+Aug 23 08:32:25 Marizas-MBP com.apple.xpc.launchd[1] (com.apple.imfoundation.IMRemoteURLConnectionAgent): Unknown key for integer: _DirtyJetsamMemoryLimit
